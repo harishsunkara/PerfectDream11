@@ -219,7 +219,7 @@ h1,h2 {color:#fff;}
   width: 10%;
   height: 300px;
   display: inline-block;
-  background-color: #E83F6F;
+  background-color: #5bc0de;
   cursor: pointer;
   position: relative;
   -webkit-transition: width .5s ease-in-out, background-color .5s ease-in-out;
