@@ -159,8 +159,8 @@ a:focus, a:hover {
     list-style-type: none !important;
 }
 .footer{
-	display: inline-flex;
-        list-style-type: none;
+	display: inline-flex !important;
+        list-style-type: none !important;
 }
 
 @media only screen and (max-width: 500px) {
