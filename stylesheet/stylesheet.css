@@ -277,7 +277,7 @@ h1,h2 {color:#fff;}
 h1 { color: #fff; }
 
 .image1{
-   background-image: url(http://www.espncricinfo.com/db/PICTURES/CMS/264500/264543.3.jpg); 
+   background-image: url(); 
   -webkit-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
@@ -285,28 +285,28 @@ h1 { color: #fff; }
   background-position: center center;
 }
 .image2{
-    background-image: url(http://www.espncricinfo.com/db/PICTURES/CMS/264500/264546.3.jpg);
+    background-image: url();
     -webkit-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center center;
 }.image3{
-  background-image: url(http://i.cricketcb.com/i/news/fth/595x458/stories/2017/jun/12//prv_1497271692.jpeg);    
+  background-image: url();    
   -webkit-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center center;
 }.image4{
-  background-image: url(http://i.cricketcb.com/i/news/fth/595x395/stories/2017/jun/13//prv_1497349013.jpeg);    
+  background-image: url();    
   -webkit-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center center;
 }.image5{
-  background-image: url(http://i.cricketcb.com/i/news/fth/595x372/stories/2017/jun/12//prv_1497271955.jpeg);    
+  background-image: url();    
   -webkit-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
