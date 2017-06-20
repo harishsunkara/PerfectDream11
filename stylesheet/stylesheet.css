@@ -166,6 +166,9 @@ a:focus, a:hover {
 background: #bbb;
 color: black;    
 }
+.imageheight{
+    height: 558px !important;
+}
 
 @media only screen and (max-width: 500px) {
     .hide{
