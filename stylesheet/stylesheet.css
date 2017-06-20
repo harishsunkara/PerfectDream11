@@ -158,6 +158,10 @@ a:focus, a:hover {
     display: inline-flex!important;
     list-style-type: none !important;
 }
+.footer{
+	display: inline-flex;
+        list-style-type: none;
+}
 
 @media only screen and (max-width: 500px) {
     .hide{
