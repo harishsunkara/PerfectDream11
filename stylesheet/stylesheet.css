@@ -169,7 +169,28 @@ color: black;
 .imageheight{
     height: 558px !important;
 }
-
+.hrstyle{
+    margin: 0;
+    border-top-color: black;
+}
+.menufont{
+  font-size: 25px;    
+}
+.exit{
+  font-size: 25px !important;    
+}
+.exit i{
+  color: red;    
+}
+.hovercolor a:hover{
+  background-color: #31b0d5 !important;      
+}
+#exitbutton:hover{
+    background-color: #31b0d5 !important;
+}
+.hovercolor a{
+    color: white!important;
+}
 @media only screen and (max-width: 500px) {
     .hide{
     display: none;
