@@ -191,6 +191,10 @@ color: black;
 .hovercolor a{
     color: white!important;
 }
+.paddingleftright{
+	padding-left: 15px;
+	padding-right: 15px;
+}
 @media only screen and (max-width: 500px) {
     .hide{
     display: none;
